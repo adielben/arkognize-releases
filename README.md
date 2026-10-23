@@ -9,18 +9,19 @@ Download `Arkognize-Setup-<version>.exe`.
 
 ## Install
 
-1. Close Revit.
-2. Run `Arkognize-Setup-<version>.exe`.
-3. Windows may show a SmartScreen warning, because the installer is not signed yet.
+1. Run `Arkognize-Setup-<version>.exe`.
+2. Windows may show a SmartScreen warning, because the installer is not signed yet.
    Click **More info**, then **Run anyway**.
-4. Follow the steps. No administrator rights are needed.
+3. Follow the steps. No administrator rights are needed.
+4. If Revit is open, restart it.
 
 The add-in is installed for every supported Revit version found on your computer.
 
 ## Updates
 
 Arkognize checks for updates when Revit starts. When a new version is available,
-the Arkognize panel shows an **Update** button. The update installs when you close Revit.
+the Arkognize panel shows an **Update** button. The update installs in a few seconds,
+and the new version starts the next time you open Revit.
 
 ## Requirements
 
