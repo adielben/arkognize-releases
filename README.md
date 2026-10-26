@@ -19,9 +19,8 @@ The add-in is installed for every supported Revit version found on your computer
 
 ## Updates
 
-Arkognize checks for updates when Revit starts. When a new version is available,
-the Arkognize panel shows an **Update** button. The update installs in a few seconds,
-and the new version starts the next time you open Revit.
+Arkognize updates itself. When Revit starts, it checks for a new version and installs it
+in the background. You can keep working; the new version starts the next time you open Revit.
 
 ## Requirements
 
